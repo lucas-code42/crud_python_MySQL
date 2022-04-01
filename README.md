@@ -1,6 +1,6 @@
 # Simple Crud Python vs MySQL
 
-The idea came when I was studying MySQ... A desire to create a python program that can give access to a "localhost" database.
+The idea came when I was studying MySQL... A desire to create a python program that can give access to a "localhost" database.
 
 The behavior of the program should be:
 
@@ -22,7 +22,7 @@ This code does not use real username and passwords, in case of using the code ch
 
 # Simple Crud Python x MySQL
 
-A ideia surge quando estava estudando MySQ... Uma vontade de criar um programa em python que pode dar acesso a um banco de dados "localhost".
+A ideia surge quando estava estudando MySQL... Uma vontade de criar um programa em python que pode dar acesso a um banco de dados "localhost".
 
 O comportamento do programa deve ser:
 
